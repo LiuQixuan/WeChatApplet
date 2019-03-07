@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Home Page",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark"
+}
